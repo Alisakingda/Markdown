@@ -45,11 +45,11 @@
 
 ## 行内式
 
-[百度](http://www.baidu.com)
+`[百度](http://www.baidu.com)`
 
 ## 参数式
 
-[百度]: http://www.baidu.com
+`[百度]: http://www.baidu.com`
 
 [百度]
 
@@ -57,19 +57,19 @@
 
 ## 行内式
 
-![image](http://www.baidu.com/images/logo.gif)
+`![image](http://www.baidu.com/images/logo.gif)`
 
 ## 参数式
 
-[image]: http://www.baidu.com/images/logo.gif
+`[image]: http://www.baidu.com/images/logo.gif`
 
-![image]
+`![image]`
 
 ### 链接与图片比较
 
 ---
 
-图片前面要写一个！
+图片前面要写一个<strong>!</strong>
 
 # 代码框
 
